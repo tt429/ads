@@ -1,5 +1,6 @@
 {
-    "active": true,
-    "content": "<h3>عروض خاصة!</h3><p>احصل على خصم 20% على جميع الدورات التعليمية</p>"
+    "imageUrl": "https://example.com/your-ad-image.jpg",
+    "url": "https://example.com",
+    "altText": "إعلان",
+    "text": "إعلان تجريبي"
 }
-
