@@ -1,6 +1,7 @@
 {
-  "content": "<div style='background: #f0f0f0; padding: 20px;text-align: center; border-radius: 8px;'><p>هذا إعلان مخصص مع تنسيق HTML كامل</p></div>"
+  "content": "<div style='background: #f0f0f0;color:007bff; padding: 20px;text-align: center; border-radius: 8px;'><p>هذا إعلان مخصص مع تنسيق HTML كامل</p></div>"
 }
+
 
 
 
