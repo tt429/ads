@@ -1,7 +1,8 @@
 {
-  "active": true,
+  "active": false,
   "content": "<div style='width:100%; text-align:center; margin:0 auto; padding:5px;'> <img src='https://alfadoor.net/wp-content/uploads/2024/05/3.png' alt='إعلان' style='width:100%; max-height:120px; object-fit:cover; border-radius:6px; display:block; margin:0 auto;'> </div>"
 }
+
 
 
 
